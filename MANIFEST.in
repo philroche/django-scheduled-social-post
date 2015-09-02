@@ -1,0 +1,6 @@
+include AUTHORS.rst
+include CONTRIBUTING.rst
+include HISTORY.rst
+include LICENSE
+include README.rst
+recursive-include scheduled_social_post *.html *.png *.gif *js *.css *jpg *jpeg *svg *py
